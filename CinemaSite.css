@@ -1,0 +1,52 @@
+/*Gustavo da Encarnação Rodrigues e Paulo Zatan Zattar Daniel*/
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi+Fun&display=swap');
+
+  
+.TituloCine {
+    display: flex; /* 
+    align-items: center; /* Centralize verticalmente os elementos */
+}
+
+/* Estiliza a imagem do produto */
+.TituloCine img {
+    width: 230;
+    height: auto; /* Mantem a proporção da imagem */
+    margin-right: 10px; /* Adiciona um espaço à direita da imagem */
+}
+
+/* Estiliza o título */
+.TituloCine h2 {
+    font-size: 35px; 
+    margin: 0; 
+}
+
+/*Altera a fonte, centraliza e adiciona a cor azul*/
+.titulo{     
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: blue;
+}
+
+.cabecalho h3{
+    font-family: 'Reem Kufi Fun', sans-serif;
+    font-size: 25px;
+}
+
+.tituloTabela{
+    font-family: 'Bungee Spice', cursive;
+    text-align: center;
+
+}
+
+h2,h3,h4,h5,h6{
+    font-family: 'Bungee Spice', cursive;
+    text-align: center;
+
+}
+
+.product-table{
+    font-family: 'Bungee Spice', cursive;
+    text-align: center;
+
+}
